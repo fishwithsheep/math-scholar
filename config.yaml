@@ -11,5 +11,6 @@ paper_list_json_path: './docs/quant-scholar.json'
 paper_list_path: 'README.md'
 
 keywords:
-    "Math":
-        filters: ["Machine Learning in Finance", "Statistical Finance"]
+    "Numerical Analysis":
+        filters: ["Numerical Analysis","Computational Physics"]
+    
